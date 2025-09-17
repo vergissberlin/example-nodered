@@ -12,6 +12,6 @@
   "license": "ISC",
   "dependencies": {
     "node-red": "^4.0.5",
-    "pm2": "^5.4.2"
+    "pm2": "^6.0.0"
   }
 }
